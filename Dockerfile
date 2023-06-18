@@ -28,6 +28,8 @@ RUN apk --no-cache add \
   php81-opcache \
   php81-iconv \
   php81-pecl-imagick \
+  php81-pdo_mysql \
+  php81-pdo \
   nginx \
   supervisor \
   curl \
